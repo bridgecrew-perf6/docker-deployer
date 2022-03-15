@@ -8,7 +8,7 @@ Make sure you edit the service_name same as with service name in docker_compose_
 
 Example in production.sh :
 ```
-service_name=**app-production**
+service_name=app-production
 docker_compose_name=docker-compose.production.yml
 ```
 
